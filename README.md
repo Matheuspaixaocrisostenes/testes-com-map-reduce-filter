@@ -1,2 +1,5 @@
-# testes-com-map-reduce-filter
-Alguns teste com o map, filter e reduce do js
+# testes com map, reduce e filter
+- Aprofundando os meus conhecimentos sobre map, filter e reduce do JavaScript
+ 
+ ## Tecnologias Usadas: :book:
+ - JavaScript
